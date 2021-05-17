@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1cc8963c-9955-429f-b4bc-f81635ef0ebd" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/APItest$Main.coverage" NAME="Main Coverage Results" MODIFIED="1578638247259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/APItest_ApacheBench$Main.coverage" NAME="Main Coverage Results" MODIFIED="1596785335058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+              <folding>
+                <element signature="e#0#20#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>textID</find>
+      <find>showOrH</find>
+      <find>信息</find>
+      <find>java</find>
+      <find>2155</find>
+      <find>background-color:</find>
+      <find>测试信息</find>
+      <find>测试命令</find>
+      <find>table-tr-header</find>
+      <find>.table-tr-header</find>
+      <find>测试报告</find>
+      <find>table-header</find>
+      <find>.table-header</find>
+      <find>21</find>
+      <find>.table-content-it</find>
+      <find>Test_Time_Taken']+&quot;</find>
+      <find>style=</find>
+      <find>style=&quot;background-color:LightSkyBlue</find>
+      <find>参考链接</find>
+      <find>c</find>
+      <find>a、</find>
+      <find>Time per re</find>
+      <find>bytes/秒</find>
+      <find>取该列表</find>
+      <find>time</find>
+      <find>17800000010</find>
+      <find>deque</find>
+      <find>次</find>
+      <find>plan</find>
+      <find>执行命令</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>] + &quot;&quot;&quot;并发&quot;&quot;&quot;</replace>
+      <replace>if &quot;ab -n&quot;</replace>
+      <replace>style=&quot;background-color:LightSteelBlue</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/ReportFile</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Dynamic API/Report.py" />
+        <option value="$PROJECT_DIR$/Dynamic API/spacedataTest/ServerName.py" />
+        <option value="$PROJECT_DIR$/ab/AbExceter.py" />
+        <option value="$PROJECT_DIR$/DynamicAPI/spacedataTest/ServerName.py" />
+        <option value="$PROJECT_DIR$/Test.py" />
+        <option value="$PROJECT_DIR$/Config" />
+        <option value="$PROJECT_DIR$/BrowserDy.txt" />
+        <option value="$PROJECT_DIR$/TestPlan" />
+        <option value="$PROJECT_DIR$/TestPlan.txt" />
+        <option value="$PROJECT_DIR$/ReportFile/Daily_单接口压测报告_201912210216.html" />
+        <option value="$PROJECT_DIR$/ResultFloder/20191222/colladdress_list_20000n_200c_k_1614.txt" />
+        <option value="$PROJECT_DIR$/ReportFile/Daily_单接口压测报告_201912130818.html" />
+        <option value="$PROJECT_DIR$/JsonFile/discuss_search.json" />
+        <option value="$PROJECT_DIR$/JsonFile/dynamic_search10.json" />
+        <option value="$PROJECT_DIR$/JsonFile/dynamic_search20.json" />
+        <option value="$PROJECT_DIR$/Common/Report.py" />
+        <option value="$PROJECT_DIR$/JsonFile/dynamic_search.json" />
+        <option value="$PROJECT_DIR$/Main.py" />
+        <option value="$PROJECT_DIR$/Common/Exceter.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="25" />
+    <option name="width" value="1440" />
+    <option name="height" value="806" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ApacheBenchmarkAPITestTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ApacheBenchmarkAPITestTool" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ApacheBenchmarkAPITestTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ApacheBenchmarkAPITestTool" type="462c0819:PsiDirectoryNode" />
+              <item name="ResultFloder" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ReadMe" />
+      <recent name="$PROJECT_DIR$/JsonFile" />
+      <recent name="$PROJECT_DIR$/ResultFloder/20191211" />
+      <recent name="$PROJECT_DIR$/Common" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ResultFloder/20200804" />
+      <recent name="$PROJECT_DIR$/Common" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Main">
+    <configuration name="Daily_单接口压测报告_201912181115.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/APItest/ReportFile/Daily_单接口压测报告_201912181115.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="Exceter" type="PythonConfigurationType" factoryName="Python">
+      <module name="APItest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Common" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Common/Exceter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="APItest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Report" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="APItest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Common" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Common/Report.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ServerName" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="APItest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dynamic API/spacedataTest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dynamic API/spacedataTest/ServerName.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="APItest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="APItest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.Daily_单接口压测报告_201912181115.html" />
+      <item itemvalue="Python.Unnamed" />
+      <item itemvalue="Python.Exceter" />
+      <item itemvalue="Python.ServerName" />
+      <item itemvalue="Python.Test" />
+      <item itemvalue="Python.Report" />
+      <item itemvalue="Python.Main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Main" />
+        <item itemvalue="JavaScript Debug.Daily_单接口压测报告_201912181115.html" />
+        <item itemvalue="Python.Report" />
+        <item itemvalue="Python.Test" />
+        <item itemvalue="Python.ServerName" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1cc8963c-9955-429f-b4bc-f81635ef0ebd" name="Default Changelist" comment="" />
+      <created>1574995815970</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574995815970</updated>
+      <workItem from="1574995820962" duration="42118000" />
+      <workItem from="1575446783880" duration="24928000" />
+      <workItem from="1575531108582" duration="18004000" />
+      <workItem from="1575863164902" duration="8108000" />
+      <workItem from="1575975169550" duration="14270000" />
+      <workItem from="1576458834041" duration="2760000" />
+      <workItem from="1576633041175" duration="7531000" />
+      <workItem from="1576836417204" duration="1283000" />
+      <workItem from="1577064152972" duration="3695000" />
+      <workItem from="1577184211748" duration="10381000" />
+      <workItem from="1577674683713" duration="1483000" />
+      <workItem from="1577676508935" duration="370000" />
+      <workItem from="1577933294079" duration="20000" />
+      <workItem from="1578636852955" duration="944000" />
+      <workItem from="1578649775928" duration="4000" />
+      <workItem from="1596444997846" duration="17283000" />
+      <workItem from="1596686363363" duration="2782000" />
+      <workItem from="1620720502507" duration="1867000" />
+      <workItem from="1621232226687" duration="4783000" />
+      <workItem from="1621241466981" duration="364000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="162978000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="25" width="1440" height="806" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18311875" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32746956" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49570817" weight="0.9576271" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4985694" weight="0.39915967" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50429183" side_tool="true" weight="0.27310926" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/APItest$Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1574996833012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/APItest_ApacheBench$Main.coverage" NAME="Main Coverage Results" MODIFIED="1621239588672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/APItest$Main.coverage" NAME="Main Coverage Results" MODIFIED="1577676607457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/APItest$Report.coverage" NAME="Report Coverage Results" MODIFIED="1575367386483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Common" />
+    <SUITE FILE_PATH="coverage/APItest$Exceter.coverage" NAME="Exceter Coverage Results" MODIFIED="1575451374003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Common" />
+    <SUITE FILE_PATH="coverage/APItest$Test.coverage" NAME="Test Coverage Results" MODIFIED="1575012089902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/APItest$ServerName.coverage" NAME="ServerName Coverage Results" MODIFIED="1574997855563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dynamic API/spacedataTest" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ResultFloder/20200804/20200805/dynamic_search_10000n_100c_k_1316.txt" />
+    <entry file="file://$PROJECT_DIR$/ResultFloder/20200803/dynamic_search_2000n_200c_k_1706.txt" />
+    <entry file="file://$PROJECT_DIR$/ResultFloder/20200803/dynamic_search_2000n_200c_k_1711.txt" />
+    <entry file="file://$PROJECT_DIR$/ResultFloder/20200803/dynamic_search_10000n_20c_k_2355.txt" />
+    <entry file="file://$PROJECT_DIR$/ResultFloder/20200803/dynamic_search_10000n_50c_k_2355.txt" />
+    <entry file="file://$PROJECT_DIR$/ResultFloder/20200804/20200805/dynamic_search_10000n_20c_k_1316.txt" />
+    <entry file="file://$PROJECT_DIR$/ReportFile/Daily_单接口压测报告_201912301118.html" />
+    <entry file="file://$PROJECT_DIR$/ReportFile/Daily_单接口压测报告_202008040044.html" />
+    <entry file="file://$PROJECT_DIR$/ReportFile/Daily_单接口压测报告_202008051418.html" />
+    <entry file="file://$PROJECT_DIR$/ResultFloder/20200804/20200805/dynamic_search_10000n_800c_k_1438.txt" />
+    <entry file="file://$PROJECT_DIR$/ResultFloder/20200804/20200805/dynamic_search_10000n_800c_k_1437.txt" />
+    <entry file="file://$PROJECT_DIR$/ResultFloder/20200804/20200805/push_test_10000n_200c_k_1316.txt" />
+    <entry file="file://$PROJECT_DIR$/ResultFloder/20200804/20200805/test_test2_10000n_20c_k_1316.txt" />
+    <entry file="file://$PROJECT_DIR$/ResultFloder/20200804/20200805/push_test_10000n_100c_k_1316.txt" />
+    <entry file="file://$PROJECT_DIR$/ResultFloder/20200804/20200805/push_test_10000n_50c_k_1316.txt" />
+    <entry file="file://$PROJECT_DIR$/ResultFloder/20200804/20200805/push_test_10000n_20c_k_1316.txt" />
+    <entry file="file://$PROJECT_DIR$/ResultFloder/20200804/20200805/push_test_10000n_20c_k_1312.txt" />
+    <entry file="file://$PROJECT_DIR$/ResultFloder/20200804/20200805/test_test2_10000n_200c_k_1316.txt" />
+    <entry file="file://$PROJECT_DIR$/ResultFloder/20200804/20200805/test_test2_10000n_100c_k_1316.txt" />
+    <entry file="file://$PROJECT_DIR$/ResultFloder/20200804/20200805/dynamic_search_10000n_200c_k_1488888888.txt" />
+    <entry file="file://$PROJECT_DIR$/ResultFloder/20200804/20200805/dynamic_search_10000n_800c_k_1440.txt" />
+    <entry file="file://$PROJECT_DIR$/ResultFloder/20200804/20200805/dynamic_search_10000n_20c_k_1459.txt" />
+    <entry file="file://$PROJECT_DIR$/JsonFile/dynamic_batchsave.json" />
+    <entry file="file://$PROJECT_DIR$/JsonFile/discuss_search.json" />
+    <entry file="file://$PROJECT_DIR$/ResultFloder/20200805/dynamic_search_2n_1c_k_1559.txt" />
+    <entry file="file://$PROJECT_DIR$/ResultFloder/20200805/Users_GetUserWholeInfo_10n_2c_k_1551.txt" />
+    <entry file="file://$PROJECT_DIR$/ResultFloder/20200805/Users_GetUserByIds_2n_1c_k_1602.txt" />
+    <entry file="file://$PROJECT_DIR$/ResultFloder/20200805/dynamic_search_2n_1c_k_1604.txt" />
+    <entry file="file://$PROJECT_DIR$/ResultFloder/20200805/Users_GetUserByIds_2n_1c_k_1604.txt" />
+    <entry file="file://$PROJECT_DIR$/ResultFloder/20200804/20200805/dynamic_search_10000n_800c_k_1447.txt" />
+    <entry file="file://$PROJECT_DIR$/ResultFloder/20200805/dynamic_search_2n_1c_k_1615.txt" />
+    <entry file="file://$PROJECT_DIR$/ResultFloder/20200805/dynamic_search_2n_1c_k_1620.txt" />
+    <entry file="file://$PROJECT_DIR$/ResultFloder/20200805/dynamic_search_2n_1c_k_1605.txt" />
+    <entry file="file://$PROJECT_DIR$/ResultFloder/20200805/Users_GetUserByIds_2n_1c_k_1605.txt" />
+    <entry file="file://$PROJECT_DIR$/ResultFloder/20200805/Users_GetUserByIds_2n_1c_k_1620.txt" />
+    <entry file="file://$PROJECT_DIR$/JsonFile/dynamic_search20.json" />
+    <entry file="file://$PROJECT_DIR$/ReportFile/Daily_单接口压测报告_201912181052.html" />
+    <entry file="file://$PROJECT_DIR$/ReportFile/Daily_单接口压测报告_201912181057.html" />
+    <entry file="file://$PROJECT_DIR$/JsonFile/dynamic_search10.json" />
+    <entry file="file://$PROJECT_DIR$/Common/Report.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="66" column="77" selection-start-line="66" selection-start-column="77" selection-end-line="66" selection-end-column="77" />
+          <folding>
+            <element signature="e#24#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo.py" />
+    <entry file="file://$PROJECT_DIR$/ReportFile/Daily_单接口压测报告_202008051807.html" />
+    <entry file="file://$PROJECT_DIR$/JsonFile/dynamic_search.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="67" selection-start-column="67" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/py36/lib/python3.6/site-packages/xlrd/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="169" selection-start-line="169" selection-end-line="169" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ResultFloder/20210517/dynamic_search_10t_20c_k_1607.txt" />
+    <entry file="file://$PROJECT_DIR$/ReportFile/Daily_单接口压测报告_202105171607.html" />
+    <entry file="file://$PROJECT_DIR$/Common/Exceter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="143" selection-start-line="143" selection-end-line="143" />
+          <folding>
+            <element signature="e#24#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ResultFloder/20210517/dynamic_search_10t_20c_k_1615.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3574" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ResultFloder/20210517/dynamic_search_10t_20c_k_1619.txt" />
+    <entry file="file://$PROJECT_DIR$/ReportFile/Daily_单接口压测报告_202105171615.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="22" column="31" lean-forward="true" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
