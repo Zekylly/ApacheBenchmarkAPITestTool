@@ -20,7 +20,7 @@
 #### 1、克隆本项目到本地
 
 ```bash
-git clone xxxx
+git clone https://github.com/Zekylly/ApacheBenchmarkAPITestTool
 ```
 
 #### 2、工程目录说明
