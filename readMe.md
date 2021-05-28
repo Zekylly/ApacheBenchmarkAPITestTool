@@ -72,7 +72,7 @@ git clone https://github.com/Zekylly/ApacheBenchmarkAPITestTool
 
 ##### 3.3、post 请求
 
-2.3.1、编写`.json`文件放置目录：`项目/JsonFile/xxxx.json`，其余参考测试用例表格中”**Post数据文件地址**“
+编写`.json`文件放置目录：`项目/JsonFile/xxxx.json`，其余参考测试用例表格中”**Post数据文件地址**“
 
 ![image-20210517161841845](./ReadMe/image-20210517161841845.png)
 
